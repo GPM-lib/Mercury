@@ -1,0 +1,4 @@
+*.o
+subgraph_matching/*.o
+tc_multigpu/*.o
+.vscode

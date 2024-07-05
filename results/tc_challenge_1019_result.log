@@ -1,0 +1,57 @@
+========network-datasets=========
+amazon0312_adj  0.00098
+amazon0505_adj  0.000988
+amazon0601_adj  0.001005
+cit-Patents  0.00602
+flickrEdges_adj  0.003499
+friendster  1.77776
+roadNet-CA_adj  0.001657
+roadNet-PA_adj  0.001073
+========Theory-datasets=========
+Theory-25-81-256-B1k  0.001111
+Theory-25-81-256-B2k  0.000672
+Theory-3-4-5-9-16-25-B1k  0.013642
+Theory-3-4-5-9-16-25-B2k  0.003541
+Theory-4-5-9-16-25-B1k  0.002122
+Theory-4-5-9-16-25-B2k  0.000939
+Theory-5-9-16-25-81-B1k  0.035774
+Theory-5-9-16-25-81-B2k  0.007547
+Theory-9-16-25-81-B1k  0.001897
+Theory-9-16-25-81-B2k  0.000964
+========mawi=========
+201512012345.v18571154_e38040320  0.001265
+201512020000.v35991342_e74485420  0.001813
+201512020030.v68863315_e143414960  0.002825
+201512020130.v128568730_e270234840  0.003631
+201512020330.v226196185_e480047894  0.005235
+========graph500=========
+graph500-scale18-ef16_adj  0.00406
+graph500-scale19-ef16_adj  0.007937
+graph500-scale20-ef16_adj  0.021956
+graph500-scale21-ef16_adj  0.049533
+graph500-scale22-ef16_adj  0.108183
+graph500-scale23-ef16_adj  0.256187
+graph500-scale24-ef16_adj  0.542192
+graph500-scale25-ef16_adj  1.29393
+========new_datasets=========
+as-caida20071105_adj  0.00379
+ca-HepPh_adj  0.029025
+cit-HepPh_adj  0.000964
+email-EuAll_adj  0.001004
+facebook_combined_adj  0.000773
+loc-brightkite_edges_adj  0.000591
+loc-gowalla_edges_adj  0.000875
+oregon2_010526_adj  0.000494
+p2p-Gnutella04_adj  0.000465
+soc-Epinions1_adj  0.000886
+soc-Slashdot0902_adj  0.000843
+========others=========
+livej  0.024192
+orkut  0.105739
+twitter20  0.550897
+youtube  0.012583
+========genbank=========
+P1a  0.066219
+U1a  0.024234
+V1r  0.081155
+V2a  0.025927
