@@ -1,3 +1,7 @@
+
+# Artifact for GraphChallenge'2024 champion&#x1F3C6;
+> *MERCURY: Efficient Subgraph Matching on GPUs with Hybrid Scheduling, HPEC'2024* 
+
 # 1. Dataset preparation
 ## 1.1. Download datasets.(amazon0302)
 
