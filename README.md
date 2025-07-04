@@ -11,7 +11,6 @@ wget https://graphchallenge.s3.amazonaws.com/snap/amazon0302/amazon0302_adj.tsv
 
 ## 1.2. Convert tsv to mtx.
 
-
 > amazon0302_adj.tsv -> amazon0302_adj.mtx
 
 ```
