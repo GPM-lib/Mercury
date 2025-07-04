@@ -19,6 +19,9 @@ python3 ./datasets/tsv2mtx.py amazon0302_adj
 ```
 
 ## 1.3. Convert mtx to binary file.
+>We adopt the same conversion script as [GraphMiner](https://github.com/chenxuhao/GraphAIBench). Thanks for Dr.XuhaoChen.
+
+>For any dataset-related issues or requirements, please feel free to contact me at linzhiheng@ncic.ac.cn.
 ```
  amazon0302_adj.mtx -> amazon0302_adj/graph.meta.txt  
                     -> amazon0302_adj/graph.edge.bin 
